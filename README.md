@@ -2,8 +2,9 @@
 
 ## Installing and Using this script
 
-First make sure you have python3 on your system.
+First make sure you have python3 on your system. If not go to (python.org)[https://www.python.org/] and install it. 
 
+Make sure you add it to your path!
 
 ### Create a new python virtual environment.
 
@@ -11,15 +12,15 @@ First make sure you have python3 on your system.
 
 ### Activate your new python virtual environment.
 
-Windows:
-`source venv/Scripts/activate`
+Windows CMD:
+`venv\Scripts\activate`
 
 Linux/Mac
 `source venv/bin/activate`
 
 ### Pip install this git repository
 
-`pip install https://github.com/DanielPDWalker/pdf_to_csv_script.git`
+`pip install git+https://github.com/DanielPDWalker/pdf_to_csv_script.git`
 
 ### In your terminal type
 
