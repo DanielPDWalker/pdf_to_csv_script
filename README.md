@@ -2,7 +2,7 @@
 
 ## Installing and Using this script
 
-First make sure you have python3 on your system. If not go to (python.org)[https://www.python.org/] and install it. 
+First make sure you have python3 on your system. If not go to [python.org](https://www.python.org/) and install it. 
 
 Make sure you add it to your path!
 
