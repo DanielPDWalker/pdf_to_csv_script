@@ -1,16 +1,27 @@
 # PDF with tables to CSV
 
-Requirements:
-- Python 3 (build and tested on 3.8)
-
-Packages:
-- Tabula
-- Click
-
-
 ## Installing and Using this script
 
-First git clone this repository
+First make sure you have python3 on your system.
 
-`git clone 
 
+Create a new python virtual environment.
+
+`python -m venv venv`
+
+Activate your new python virtual environment.
+
+Windows:
+`source venv/Scripts/activate`
+Linux/Mac
+`source venv/bin/activate`
+
+Pip install this git repository
+
+`pip install https://github.com/DanielPDWalker/pdf_to_csv_script.git`
+
+In your terminal type
+
+`pdf_to_csv convert <relative_path_to_your_pdf>`
+
+Once the script has run there should be a csv file with the same name as you pdf in the directory that your pdf is in.
