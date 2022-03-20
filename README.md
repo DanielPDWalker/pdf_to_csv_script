@@ -5,22 +5,23 @@
 First make sure you have python3 on your system.
 
 
-Create a new python virtual environment.
+### Create a new python virtual environment.
 
 `python -m venv venv`
 
-Activate your new python virtual environment.
+### Activate your new python virtual environment.
 
 Windows:
 `source venv/Scripts/activate`
+
 Linux/Mac
 `source venv/bin/activate`
 
-Pip install this git repository
+### Pip install this git repository
 
 `pip install https://github.com/DanielPDWalker/pdf_to_csv_script.git`
 
-In your terminal type
+### In your terminal type
 
 `pdf_to_csv convert <relative_path_to_your_pdf>`
 
