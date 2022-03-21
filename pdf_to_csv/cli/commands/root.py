@@ -1,5 +1,5 @@
 
-"""CLI entrypoint 'notebook' command"""
+"""CLI entrypoint 'pdf_to_csv' command"""
 
 import click
 
