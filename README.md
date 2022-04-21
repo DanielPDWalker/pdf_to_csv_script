@@ -6,17 +6,21 @@ First make sure you have python3 on your system. If not go to [python.org](https
 
 Make sure you add it to your path!
 
-### Create a new python virtual environment.
+### Create a new python virtual environment
 
 `python -m venv venv`
 
-### Activate your new python virtual environment.
+### Activate your new python virtual environment
 
 Windows CMD:
 `venv\Scripts\activate`
 
 Linux/Mac
 `source venv/bin/activate`
+
+### Update your pip and wheel versions
+
+`pip install --upgrade pip setuptools wheel`
 
 ### Pip install this git repository
 
