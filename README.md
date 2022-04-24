@@ -31,3 +31,9 @@ Linux/Mac
 `pdf_to_csv convert <relative_path_to_your_pdf>`
 
 Once the script has run there should be a csv file with the same name as you pdf in the directory that your pdf is in.
+
+---
+
+## Other ways to get data out of a PDF
+
+https://academy.datawrapper.de/article/135-how-to-extract-data-out-of-pdfs
